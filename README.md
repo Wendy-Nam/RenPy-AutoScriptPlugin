@@ -1,6 +1,6 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# Ren-Py AutoScripting Plugin with ChatGPT API
+# Ren'Py AutoScripting Plugin with ChatGPT API
 
 Harness the power of AI in your Ren'Py visual novel projects!
 This plugin facilitates the creation of interactive text-based games by leveraging an AI model for narrative generation. It's seamlessly integrated with the Ren'Py visual novel engine.
