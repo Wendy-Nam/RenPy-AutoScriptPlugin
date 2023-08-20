@@ -44,15 +44,15 @@ This plugin facilitates the creation of interactive text-based games by leveragi
    Your `initial_prompt` and the content within `story_instructions.txt` substantially affect the narrative quality delivered by the API. Thus, carefully craft your prompts and instructions, ensuring you highlight crucial elements, like how scenes should be depicted by the AI.
 
 ## 💬 Example : How to generate story-config files
-
-<details>
-<summary><b>Click Here to view ScreenShot Images</b></summary>
-<div markdown="1">
-<img src='./README/how-to-gen-story-config-1.png'>
-<img src='./README/how-to-gen-story-config-2.png'>
-<img src='./README/how-to-gen-story-config-3.png'>
-</div>
-</details>
+  
+  <details>
+  <summary><b>Click Here to view ScreenShot Images</b></summary>
+  <div markdown="1">
+  <img src='./README/how-to-gen-story-config-1.png'>
+  <img src='./README/how-to-gen-story-config-2.png'>
+  <img src='./README/how-to-gen-story-config-3.png'>
+  </div>
+  </details>
 
 ## 🎖️ Credits
 
