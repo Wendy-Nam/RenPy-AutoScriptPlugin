@@ -31,7 +31,7 @@ This plugin facilitates the creation of interactive text-based games by leveragi
 
    (Note: If you include any subdirectories in the `Stories/` directory, the game will instantly load with the example story configurations I've provided.)
 
-   (💡 How to generate your own API Key : <href>https://openaimaster.com/how-to-get-chatgpt-api-key-free-use-it/</href>)
+   (🔑 How to generate your own API Key : <href>https://openaimaster.com/how-to-get-chatgpt-api-key-free-use-it/</href>)
 
 5. Within any Ren'Py label, use `jump AutoScript` to kick off the text game experience.
 
