@@ -9,7 +9,7 @@ This plugin facilitates the creation of interactive text-based games by leveragi
   <img src="./README/screen_record.gif">
 </p>
 
-## How to Set Up
+## ✨ How to Set Up
 
 1. Clone this directory into the `game/` directory of your Ren'Py project.
 2. Check out `Stories/README.md` for instructions on utilizing ChatGPT for generating essential story configuration files.
@@ -43,7 +43,7 @@ This plugin facilitates the creation of interactive text-based games by leveragi
 
    Your `initial_prompt` and the content within `story_instructions.txt` substantially affect the narrative quality delivered by the API. Thus, carefully craft your prompts and instructions, ensuring you highlight crucial elements, like how scenes should be depicted by the AI.
 
-## Example : How to generate story-config files
+## 💬 Example : How to generate story-config files
 
 <details>
 <summary><b>Click Here to view ScreenShot Images</b></summary>
@@ -54,12 +54,12 @@ This plugin facilitates the creation of interactive text-based games by leveragi
 </div>
 </details>
 
-## Credits
+## 🎖️ Credits
 
 - Contributions welcome!
 - <b><u>MIT License</u></b>: Feel free to use this plugin for both commercial and non-commercial projects.
 
-## Code Description
+## 📒 Code Description
 
 <details>
 <summary><b>main.rpy</b></summary>
@@ -155,7 +155,7 @@ This description aims to give a reader a general idea of what the code does, wit
 </div>
 </details>
 
-## TroubleShooting
+## 🚨 TroubleShooting
 
 - <b>Formatting Concerns</b>: While I've worked diligently to ensure the ChatGPT API maintains a consistent response format, there are rare occasions when it might deviate. Many issues you encounter with this plugin may stem from these inconsistencies. Therefore, always inspect the response using a console print before parsing.
 
