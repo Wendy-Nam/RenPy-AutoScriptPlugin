@@ -29,9 +29,9 @@ This plugin facilitates the creation of interactive text-based games by leveragi
    STORY_CONFIG_PATH = DIR_PATH + "Stories/" + YOUR_OWN_STORY_DIRECTORY + "/"
    ```
 
-   (Note: If you include any subdirectories in the Stories/ directory, the game will instantly load with the example story configurations I've provided.)
+   (Note: If you include any subdirectories in the `Stories/` directory, the game will instantly load with the example story configurations I've provided.)
 
-   (How to generate your own API Key : <href>https://openaimaster.com/how-to-get-chatgpt-api-key-free-use-it/</href>)
+   (💡 How to generate your own API Key : <href>https://openaimaster.com/how-to-get-chatgpt-api-key-free-use-it/</href>)
 
 5. Within any Ren'Py label, use `jump AutoScript` to kick off the text game experience.
 
@@ -57,7 +57,7 @@ This plugin facilitates the creation of interactive text-based games by leveragi
 ## Credits
 
 - Contributions welcome!
-- MIT License: Feel free to use this plugin for both commercial and non-commercial projects.
+- <b><u>MIT License</b></u>: Feel free to use this plugin for both commercial and non-commercial projects.
 
 ## Code Description
 
@@ -81,7 +81,7 @@ This script is designed for a Ren'Py visual novel game:
 <div markdown="1">
 This script is centered around two primary classes:
 
-1.  <b>CharacterBuilder</b>:
+1.  `CharacterBuilder`:
 
     - <b>Purpose</b>: To streamline the creation of a GPTCharacter.
     - <b>Key Functions</b>:
@@ -92,7 +92,7 @@ This script is centered around two primary classes:
 
       - `load_attribute_options()`: Sources character attributes from a specified JSON file.
 
-2.  <b>GPTCharacter</b>
+2.  `GPTCharacter`
 
     - <b>Purpose</b>: To represent a character, bifurcated into fixed and dynamic attributes.
     - <b>Key Functions</b>:
@@ -111,7 +111,8 @@ The entire operation is architected around character creation by importing attri
 <details>
 <summary><b>auto-script/auto_script.rpy</b></summary>
 <div markdown="1">
-<b>AutoScriptGPT for Event-Based Visual Novels:</b>
+  
+`AutoScriptGPT`
 
 1. <b>Dependencies</b>: Uses `json` for file parsing and `requests` for HTTP communication.
 
