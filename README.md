@@ -57,7 +57,7 @@ This plugin facilitates the creation of interactive text-based games by leveragi
 ## Credits
 
 - Contributions welcome!
-- <b><u>MIT License</b></u>: Feel free to use this plugin for both commercial and non-commercial projects.
+- <b><u>MIT License</u></b>: Feel free to use this plugin for both commercial and non-commercial projects.
 
 ## Code Description
 
