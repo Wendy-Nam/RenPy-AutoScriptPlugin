@@ -1,0 +1,12 @@
+There are two characters, {self.partner.name} and {self.player.name}.
+Generate an improvised setting for the story. Describe the following elements:
+
+1. The place where the story takes place.
+2. The time period (e.g., past, present, future) in which the story occurs.
+3. The relationship between the characters or a unique situation they find themselves in.
+
+After describing these elements, proceed with the story by providing the attribute modifications and narrative content.
+Generate a detailed scene where you describe the location they are in, their emotions, and the atmosphere around them. Set the stage for an important decision they have to make.
+specify partner name and player name as [partner_name] and [player_name] in the prompt.
+
+Every choice is a gamble: some promising options might swiftly plunge players into pitfalls, while other seemingly dire choices harbor hidden rewards. Players should constantly anticipate and brace for unexpected twists and turns.

@@ -1,0 +1,44 @@
+[
+  {
+    "attribute": "health",
+    "condition": "<=",
+    "value": 0,
+    "message": "Your health has reached zero. Game over."
+  },
+  {
+    "attribute": "experience",
+    "condition": ">=",
+    "value": 100,
+    "message": "Congratulations! You have gained enough experience to become a master."
+  },
+  {
+    "attribute": "charm",
+    "condition": ">=",
+    "value": 18,
+    "message": "Your irresistible charm wins over the kingdom. You achieve a happy ending."
+  },
+  {
+    "attribute": "craftsmanship",
+    "condition": ">=",
+    "value": 18,
+    "message": "Your unmatched craftsmanship brings prosperity to your realm. You achieve a legendary status."
+  },
+  {
+    "attribute": "magic",
+    "condition": ">=",
+    "value": 16,
+    "message": "Your mastery of magic reshapes the world. You become a living legend among spellcasters."
+  },
+  {
+    "attribute": "romance",
+    "condition": ">=",
+    "value": 16,
+    "message": "The blossoming romance between [partner_name] and [player_name] becomes a timeless love story, celebrated for generations."
+  },
+  {
+    "attribute": "transformation",
+    "condition": "==",
+    "value": 1,
+    "message": "Through your influence, [partner_name] undergoes a profound transformation, altering the course of their destiny."
+  }
+]

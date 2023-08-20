@@ -1,0 +1,50 @@
+[
+  {
+    "attribute": "trust_level",
+    "condition": "<=",
+    "value": 0,
+    "message": "Game Over - Trust Level reached zero."
+  },
+  {
+    "attribute": "health",
+    "condition": "<=",
+    "value": 0,
+    "message": "Game Over - Health reached zero."
+  },
+  {
+    "attribute": "affection_level",
+    "condition": ">=",
+    "value": 100,
+    "message": "Congratulations! Your bond with the character is unbreakable!"
+  },
+  {
+    "attribute": "knowledge",
+    "condition": ">=",
+    "value": 90,
+    "message": "Impressive! You have acquired vast knowledge about the world!"
+  },
+  {
+    "attribute": "trust_level",
+    "condition": ">=",
+    "value": 90,
+    "message": "Your trust is commendable! You've formed a strong bond."
+  },
+  {
+    "attribute": "energy",
+    "condition": "<=",
+    "value": 5,
+    "message": "Game Over - You are too exhausted to continue."
+  },
+  {
+    "attribute": "morale",
+    "condition": "<=",
+    "value": 10,
+    "message": "Game Over - Low morale has dampened your spirit."
+  },
+  {
+    "attribute": "resources",
+    "condition": "<=",
+    "value": 1,
+    "message": "Game Over - You've run out of essential resources."
+  }
+]

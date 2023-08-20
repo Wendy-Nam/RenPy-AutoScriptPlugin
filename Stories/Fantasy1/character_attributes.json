@@ -1,0 +1,101 @@
+{
+  "trust_level": {
+    "value": 10,
+    "range": [0, 100],
+    "status": {
+      "0-10": "Deeply Distrustful",
+      "11-20": "Suspicious",
+      "21-40": "Wary",
+      "41-60": "Neutral",
+      "61-80": "Trusting",
+      "81-100": "Fully Trustworthy"
+    }
+  },
+  "affection_level": {
+    "value": 5,
+    "range": [0, 100],
+    "status": {
+      "0-10": "Averse",
+      "11-20": "Indifferent",
+      "21-40": "Curious",
+      "41-60": "Fond",
+      "61-80": "Attached",
+      "81-100": "In Love"
+    }
+  },
+  "knowledge": {
+    "value": 50,
+    "range": [0, 100],
+    "status": {
+      "0-10": "Uninformed",
+      "11-20": "Aware",
+      "21-40": "Informed",
+      "41-60": "Knowledgeable",
+      "61-80": "Expert",
+      "81-100": "Genius"
+    }
+  },
+  "energy": {
+    "value": 70,
+    "range": [0, 100],
+    "status": {
+      "0-10": "Exhausted",
+      "11-20": "Very Tired",
+      "21-40": "Tired",
+      "41-60": "A bit Fatigued",
+      "61-80": "Energetic",
+      "81-100": "Full of Energy"
+    }
+  },
+  "morale": {
+    "value": 50,
+    "range": [0, 100],
+    "status": {
+      "0-10": "Despondent",
+      "11-20": "Pessimistic",
+      "21-40": "Uncertain",
+      "41-60": "Neutral",
+      "61-80": "Optimistic",
+      "81-100": "Euphoric"
+    }
+  },
+  "resources": {
+    "value": 10,
+    "range": [0, 100],
+    "status": {
+      "0-10": "Depleted",
+      "11-20": "Very Low",
+      "21-40": "Low",
+      "41-60": "Moderate",
+      "61-80": "High",
+      "81-100": "Abundant"
+    }
+  },
+  "morality_alignment": {
+    "value": 5,
+    "range": [1, 9],
+    "status": {
+      "1": "Lawful Good - Believes in righteousness and order.",
+      "2": "Neutral Good - Does the best without being ordered or chaotic.",
+      "3": "Chaotic Good - Values freedom and kindness.",
+      "4": "Lawful Neutral - Values order, tradition, or a personal code.",
+      "5": "True Neutral - Sees balance in all things.",
+      "6": "Chaotic Neutral - Values personal freedom above all.",
+      "7": "Lawful Evil - Takes what they want through authority.",
+      "8": "Neutral Evil - Wants to maximize personal benefit.",
+      "9": "Chaotic Evil - Takes what they want through force."
+    }
+  },
+  "health": {
+    "value": 100,
+    "range": [0, 100],
+    "status": {
+      "0": "Deceased",
+      "1-20": "Critically Wounded",
+      "21-40": "Injured",
+      "41-60": "Bruised",
+      "61-80": "Healthy but Fatigued",
+      "81-100": "Fully Healthy"
+    }
+  }
+}

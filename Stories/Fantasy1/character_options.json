@@ -1,0 +1,86 @@
+{
+  "gender": {
+    "options": [
+      "Male",
+      "Female",
+      "Non-Binary",
+      "Genderqueer",
+      "Genderfluid",
+      "Agender"
+    ],
+    "prompt": "gender identity"
+  },
+  "gender_expression": {
+    "options": [
+      "Masculine",
+      "Feminine",
+      "Androgynous",
+      "Gender-neutral",
+      "Ambiguous"
+    ],
+    "prompt": "gender expression"
+  },
+  "personality": {
+    "options": [
+      "Outgoing and cheerful",
+      "Reserved and introspective",
+      "Charismatic and influential",
+      "Analytical and methodical",
+      "Empathetic and nurturing",
+      "Adventurous and daring",
+      "Curious and inquisitive"
+    ],
+    "prompt": "personality"
+  },
+  "appearance": {
+    "options": [
+      "Tall with broad shoulders",
+      "Short with a delicate frame",
+      "Average height with a sturdy build",
+      "Athletic and toned",
+      "Slender with graceful movements",
+      "Robust and commanding",
+      "Petite with quick agility"
+    ],
+    "prompt": "appearance"
+  },
+  "background": {
+    "options": [
+      "Grew up in a bustling city",
+      "Raised in a remote village",
+      "Has traveled the world",
+      "From a noble lineage",
+      "Has struggled in the streets",
+      "Born into wealth and luxury",
+      "Spent years in isolation studying"
+    ],
+    "prompt": "background"
+  },
+  "skills": {
+    "options": [
+      "Expert swordsman",
+      "Gifted mage",
+      "Skilled diplomat",
+      "Brilliant strategist",
+      "Incredible singer",
+      "Skilled in stealth and subterfuge",
+      "Prolific inventor"
+    ],
+    "prompt": "skills or talents"
+  },
+  "relationship_with_protagonist": {
+    "options": [
+      "Childhood friend turned rival",
+      "Ex-lover with unresolved feelings",
+      "Mysterious stranger with a shared destiny",
+      "Long-lost sibling",
+      "Mentor or protector figure",
+      "Sworn enemy due to past conflict",
+      "Unlikely ally with a common goal",
+      "Secret admirer",
+      "Old companion with a shared history",
+      "Someone indebted to the protagonist"
+    ],
+    "prompt": "relationship with the protagonist"
+  }
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "attribute": "Health",
+    "condition": "<=",
+    "value": 0,
+    "message": "You've been caught and neutralized by the corporations. Game Over."
+  },
+  {
+    "attribute": "Reputation",
+    "condition": ">=",
+    "value": 100,
+    "message": "Your deeds have become legendary. You have inspired a revolution against the tech overlords."
+  },
+  {
+    "attribute": "Hacking Skill",
+    "condition": ">=",
+    "value": 100,
+    "message": "You've become the master of the digital realm, and no system can stand against you."
+  },
+  {
+    "attribute": "Resources",
+    "condition": "<=",
+    "value": 0,
+    "message": "Without resources, you're forced into hiding and retire from the hacking world."
+  },
+  {
+    "attribute": "Trust",
+    "condition": "<=",
+    "value": 25,
+    "message": "Betrayals have cost you dearly. You can trust no one, and no one trusts you. The city is no longer safe for you."
+  },
+  {
+    "attribute": "Cybernetics",
+    "condition": ">=",
+    "value": 100,
+    "message": "The boundary between man and machine is lost. You've become a fully integrated AI, leaving behind what remained of your humanity."
+  },
+  {
+    "attribute": "Reputation",
+    "condition": "<=",
+    "value": 25,
+    "message": "Your failures are widely broadcasted, making it impossible to continue your quest."
+  }
+]

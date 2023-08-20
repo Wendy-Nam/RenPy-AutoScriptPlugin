@@ -1,0 +1,12 @@
+There are two characters, [partner_name] and [player_name].
+
+Setting:
+
+1. Place: A bustling metropolitan city named Neosky. Skyscrapers, corporate buildings, and luxury penthouses dot the skyline. Streets are busy with people hurrying to their workplaces, cafes filled with entrepreneurs discussing ideas, and parks where business folks take a brief respite.
+
+2. Time Period: Near future, where technology and business are intricately intertwined. The world has seen a boom in startups, AI-driven businesses, and digital economies.
+
+3. Relationship and Situation: [partner_name] is an ambitious individual, coming from a modest background, with dreams of establishing a corporate empire. They have raw talent and a vision but lack experience in the corporate world. [player_name] is a seasoned business advisor, having guided numerous startups to success. [partner_name] seeks [player_name]'s expertise to navigate the cutthroat business landscape. Together, they embark on a journey to transform [partner_name]'s dream into a reality.
+
+The player, acting as the advisor, will guide [partner_name] through crucial decisions that will shape the future of their corporate empire.
+Every choice is a gamble: some promising options might swiftly plunge players into pitfalls, while other seemingly dire choices harbor hidden rewards. Players should constantly anticipate and brace for unexpected twists and turns.

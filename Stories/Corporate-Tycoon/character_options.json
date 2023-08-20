@@ -1,0 +1,72 @@
+{
+  "education": {
+    "options": [
+      "MBA from a Top School",
+      "Self-taught Entrepreneur",
+      "Tech Whiz",
+      "Marketing Guru",
+      "Street-smart Hustler"
+    ],
+    "prompt": "educational background"
+  },
+  "leadership_style": {
+    "options": [
+      "Visionary",
+      "Coach",
+      "Democratic",
+      "Autocratic",
+      "Transformational"
+    ],
+    "prompt": "leadership style"
+  },
+  "networking_capability": {
+    "options": [
+      "Social Butterfly",
+      "Reserved Networker",
+      "Strategic Connector",
+      "Industry Expert",
+      "Influencer"
+    ],
+    "prompt": "networking capability"
+  },
+  "risk_appetite": {
+    "options": [
+      "Risk Averse",
+      "Cautious",
+      "Balanced",
+      "Risk Taker",
+      "High Roller"
+    ],
+    "prompt": "risk appetite"
+  },
+  "origin": {
+    "options": [
+      "From a Business Family",
+      "Self-made from Scratch",
+      "Had a Small Startup",
+      "Former Corporate Executive",
+      "Angel Investor"
+    ],
+    "prompt": "origin story"
+  },
+  "business_acumen": {
+    "options": [
+      "Sales Magician",
+      "Product Innovator",
+      "Financial Whiz",
+      "Operations Expert",
+      "Branding Genius"
+    ],
+    "prompt": "business acumen"
+  },
+  "relation_with_board": {
+    "options": [
+      "Founder & CEO",
+      "Appointed by the Board",
+      "Majority Shareholder",
+      "Beloved by Employees",
+      "Outsider with Fresh Perspective"
+    ],
+    "prompt": "relation with the board"
+  }
+}

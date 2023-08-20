@@ -1,0 +1,62 @@
+{
+  "Hacking_Skill": {
+    "value": 50,
+    "range": [0, 100],
+    "status": {
+      "0-25": "Novice Hacker",
+      "26-50": "Intermediate Hacker",
+      "51-75": "Advanced Hacker",
+      "76-100": "Master Hacker"
+    }
+  },
+  "Reputation": {
+    "value": 50,
+    "range": [0, 100],
+    "status": {
+      "0-25": "Unknown",
+      "26-50": "Rising Star",
+      "51-75": "Most Wanted",
+      "76-100": "Legend in the Shadows"
+    }
+  },
+  "Health": {
+    "value": 100,
+    "range": [0, 100],
+    "status": {
+      "0-25": "Critical",
+      "26-50": "Injured",
+      "51-75": "Fair",
+      "76-100": "Healthy"
+    }
+  },
+  "Resources": {
+    "value": 50,
+    "range": [0, 100],
+    "status": {
+      "0-25": "Broke",
+      "26-50": "Barely Getting By",
+      "51-75": "Comfortable",
+      "76-100": "Wealthy"
+    }
+  },
+  "Trust": {
+    "value": 50,
+    "range": [0, 100],
+    "status": {
+      "0-25": "Distrusted",
+      "26-50": "Suspicious",
+      "51-75": "Reliable",
+      "76-100": "Completely Trusted"
+    }
+  },
+  "Cybernetics": {
+    "value": 25,
+    "range": [0, 100],
+    "status": {
+      "0-25": "Purely Human",
+      "26-50": "Minor Augmentations",
+      "51-75": "Half-Machine",
+      "76-100": "More Machine than Human"
+    }
+  }
+}

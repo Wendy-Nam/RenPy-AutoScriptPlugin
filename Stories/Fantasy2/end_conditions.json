@@ -1,0 +1,44 @@
+[
+  {
+    "attribute": "health",
+    "condition": "<=",
+    "value": 0,
+    "message": "Game Over - Your health has been depleted."
+  },
+  {
+    "attribute": "experience",
+    "condition": ">=",
+    "value": 100,
+    "message": "Congratulations! You've reached Legendary status!"
+  },
+  {
+    "attribute": "reputation",
+    "condition": "<=",
+    "value": 20,
+    "message": "Game Over - You've become Notorious and are exiled from the kingdom."
+  },
+  {
+    "attribute": "reputation",
+    "condition": ">=",
+    "value": 100,
+    "message": "Victory! You are Revered by all and celebrated as a hero."
+  },
+  {
+    "attribute": "mana",
+    "condition": "<=",
+    "value": 10,
+    "message": "Game Over - Your mana is drained and you can't cast spells."
+  },
+  {
+    "attribute": "gold",
+    "condition": "<=",
+    "value": 0,
+    "message": "Game Over - You've run out of gold and can't continue your adventure."
+  },
+  {
+    "attribute": "gold",
+    "condition": ">=",
+    "value": 1000,
+    "message": "Congratulations! You're among the richest in the land!"
+  }
+]

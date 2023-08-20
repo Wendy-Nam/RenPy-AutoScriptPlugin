@@ -1,0 +1,62 @@
+{
+  "company_reputation": {
+    "value": 15,
+    "range": [0, 100],
+    "status": {
+      "0-10": "Infamous",
+      "11-20": "Under Scrutiny",
+      "21-40": "Known",
+      "41-60": "Respected",
+      "61-80": "Industry Leader",
+      "81-100": "World-renowned"
+    }
+  },
+  "financial_health": {
+    "value": 30,
+    "range": [0, 100],
+    "status": {
+      "0-10": "Bankrupt",
+      "11-20": "Struggling",
+      "21-40": "Stable",
+      "41-60": "Profitable",
+      "61-80": "Thriving",
+      "81-100": "Industry Giant"
+    }
+  },
+  "employee_morale": {
+    "value": 30,
+    "range": [0, 100],
+    "status": {
+      "0-10": "Mass Resignations",
+      "11-20": "Unhappy",
+      "21-40": "Neutral",
+      "41-60": "Motivated",
+      "61-80": "Loyal",
+      "81-100": "Die-hard Enthusiasts"
+    }
+  },
+  "market_share": {
+    "value": 20,
+    "range": [0, 100],
+    "status": {
+      "0-10": "Irrelevant",
+      "11-20": "Emerging",
+      "21-40": "Stable Competitor",
+      "41-60": "Market Leader",
+      "61-80": "Dominant",
+      "81-100": "Monopoly"
+    }
+  },
+  "innovation_index": {
+    "value": 20,
+    "range": [0, 100],
+    "status": {
+      "0-10": "Outdated",
+      "11-20": "Behind the Curve",
+      "21-40": "Contemporary",
+      "41-60": "Trendsetter",
+      "61-80": "Innovative",
+      "81-100": "Futuristic"
+    }
+  }
+}

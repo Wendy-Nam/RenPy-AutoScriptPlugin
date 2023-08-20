@@ -1,0 +1,57 @@
+{
+  "experience": {
+    "value": 0,
+    "range": [0, 100],
+    "status": {
+      "0-10": "Novice",
+      "11-40": "Apprentice",
+      "41-70": "Journeyman",
+      "71-90": "Master",
+      "91-100": "Legendary"
+    }
+  },
+  "reputation": {
+    "value": 50,
+    "range": [0, 100],
+    "status": {
+      "0-20": "Notorious",
+      "21-40": "Distrusted",
+      "41-60": "Neutral",
+      "61-80": "Respected",
+      "81-100": "Revered"
+    }
+  },
+  "health": {
+    "value": 100,
+    "range": [0, 100],
+    "status": {
+      "0": "Deceased",
+      "1-20": "Critically Wounded",
+      "21-40": "Injured",
+      "41-60": "Bruised",
+      "61-80": "Healthy but Fatigued",
+      "81-100": "Fully Healthy"
+    }
+  },
+  "mana": {
+    "value": 100,
+    "range": [0, 100],
+    "status": {
+      "0-10": "Drained",
+      "11-40": "Low",
+      "41-70": "Moderate",
+      "71-90": "High",
+      "91-100": "Full"
+    }
+  },
+  "gold": {
+    "value": 50,
+    "range": [0, 1000],
+    "status": {
+      "0-100": "Poor",
+      "101-500": "Comfortable",
+      "501-800": "Wealthy",
+      "801-1000": "Rich"
+    }
+  }
+}

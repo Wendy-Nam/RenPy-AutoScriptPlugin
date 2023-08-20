@@ -1,0 +1,83 @@
+{
+  "strength": {
+    "value": 10,
+    "range": [0, 20],
+    "status": {
+      "0-5": "Feeble",
+      "6-15": "Average",
+      "16-20": "Mighty"
+    }
+  },
+  "intelligence": {
+    "value": 8,
+    "range": [0, 20],
+    "status": {
+      "0-5": "Simple-minded",
+      "6-15": "Clever",
+      "16-20": "Genius"
+    }
+  },
+  "charm": {
+    "value": 12,
+    "range": [0, 20],
+    "status": {
+      "0-5": "Awkward",
+      "6-15": "Charming",
+      "16-20": "Enchanting"
+    }
+  },
+  "agility": {
+    "value": 14,
+    "range": [0, 20],
+    "status": {
+      "0-5": "Clumsy",
+      "6-15": "Nimble",
+      "16-20": "Acrobatic"
+    }
+  },
+  "wisdom": {
+    "value": 9,
+    "range": [0, 20],
+    "status": {
+      "0-5": "Naive",
+      "6-15": "Insightful",
+      "16-20": "Sage"
+    }
+  },
+  "luck": {
+    "value": 7,
+    "range": [0, 20],
+    "status": {
+      "0-5": "Cursed",
+      "6-15": "Average Luck",
+      "16-20": "Lucky"
+    }
+  },
+  "craftsmanship": {
+    "value": 15,
+    "range": [0, 20],
+    "status": {
+      "0-5": "Amateur",
+      "6-15": "Skilled",
+      "16-20": "Master Craftsman"
+    }
+  },
+  "magic": {
+    "value": 10,
+    "range": [0, 20],
+    "status": {
+      "0-5": "Non-magical",
+      "6-15": "Spellweaver",
+      "16-20": "Archmage"
+    }
+  },
+  "instinct": {
+    "value": 11,
+    "range": [0, 20],
+    "status": {
+      "0-5": "Dull",
+      "6-15": "Perceptive",
+      "16-20": "Intuitive"
+    }
+  }
+}

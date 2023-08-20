@@ -1,0 +1,39 @@
+{
+  "race": {
+    "options": ["Human", "Elf", "Dwarf", "Orc"],
+    "prompt": "race"
+  },
+  "origin": {
+    "options": ["Village", "City", "Forest"],
+    "prompt": "hometown"
+  },
+  "occupation": {
+    "options": ["Warrior", "Mage", "Rogue", "Priest"],
+    "prompt": "occupation"
+  },
+  "personality": {
+    "options": ["Brave", "Cautious", "Optimistic", "Pessimistic"],
+    "prompt": "personality"
+  },
+  "weapon": {
+    "options": ["Sword", "Staff", "Bow", "Dagger"],
+    "prompt": "preferred weapon"
+  },
+  "element": {
+    "options": ["Fire", "Water", "Earth", "Air"],
+    "prompt": "elemental affinity"
+  },
+  "companion": {
+    "options": ["Fairy", "Wolf", "Phoenix", "Serpent"],
+    "prompt": "companion"
+  },
+  "quest": {
+    "options": [
+      "Retrieve a Lost Artifact",
+      "Defend the Realm",
+      "Uncover a Conspiracy",
+      "Rescue a Kidnapped Heir"
+    ],
+    "prompt": "primary quest"
+  }
+}

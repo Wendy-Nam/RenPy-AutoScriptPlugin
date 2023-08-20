@@ -1,0 +1,32 @@
+[
+  {
+    "attribute": "company_reputation",
+    "condition": "<=",
+    "value": 5,
+    "message": "Game Over - Scandals and negative press have ruined your company's reputation."
+  },
+  {
+    "attribute": "financial_health",
+    "condition": "<=",
+    "value": 0,
+    "message": "Game Over - Your company has gone bankrupt."
+  },
+  {
+    "attribute": "employee_morale",
+    "condition": "<=",
+    "value": 10,
+    "message": "Game Over - Your employees no longer believe in the company's vision."
+  },
+  {
+    "attribute": "market_share",
+    "condition": ">=",
+    "value": 95,
+    "message": "Congratulations! Your company is a dominant force in the industry."
+  },
+  {
+    "attribute": "innovation_index",
+    "condition": ">=",
+    "value": 90,
+    "message": "Outstanding! Your company is hailed as a pioneer in the business world."
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "race": {
+    "options": ["Human", "Elf", "Dwarf", "Orc", "Mageborn", "Fae"],
+    "prompt": "Race of the character"
+  },
+  "origin": {
+    "options": [
+      "Royal Palace",
+      "Remote Village",
+      "Hidden Monastery",
+      "Wandering Nomad",
+      "Mystical Forest",
+      "Bustling Market City"
+    ],
+    "prompt": "Origin of the character"
+  },
+  "magic_affinity": {
+    "options": [
+      "Elemental Magic",
+      "Healing Magic",
+      "Dark Magic",
+      "Illusion Magic",
+      "No Magic",
+      "Prophecy and Divination"
+    ],
+    "prompt": "Magical affinity"
+  },
+  "weapon_choice": {
+    "options": [
+      "Sword",
+      "Bow and Arrow",
+      "Staff",
+      "Daggers",
+      "Unarmed",
+      "Magic"
+    ],
+    "prompt": "Preferred weapon"
+  },
+  "travel_companion": {
+    "options": [
+      "Loyal Wolf",
+      "Mysterious Spirit",
+      "Rugged Mercenary",
+      "Wise Sage",
+      "Enchanted Golem",
+      "None"
+    ],
+    "prompt": "Travel companion"
+  }
+}

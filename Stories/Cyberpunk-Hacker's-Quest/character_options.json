@@ -1,0 +1,38 @@
+{
+  "Background": {
+    "options": [
+      "Corporate Spy",
+      "Freelance Hacker",
+      "Reformed Criminal",
+      "Tech Visionary"
+    ],
+    "prompt": "background"
+  },
+  "Personal Gear": {
+    "options": [
+      "High-End Personal Computer",
+      "Stealth Augmentations",
+      "Drone Companion",
+      "AI Assistant"
+    ],
+    "prompt": "indispensable gear"
+  },
+  "Alignment": {
+    "options": [
+      "Corporate Loyalist",
+      "Neutral Mercenary",
+      "Rebel Sympathizer",
+      "Anarchist"
+    ],
+    "prompt": "allegiance"
+  },
+  "Key Allies": {
+    "options": [
+      "Street Gangs",
+      "Corporate Execs",
+      "Underground Hacktivist Group",
+      "Mysterious Benefactor"
+    ],
+    "prompt": "key allies in the city"
+  }
+}

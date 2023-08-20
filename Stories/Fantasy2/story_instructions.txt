@@ -1,0 +1,15 @@
+In this enchanting journey, two souls venture into the unknown: the brave adventurer, {self.partner.name}, and their mystical guide, {self.player.name}. Together, they will traverse the myriad wonders and perils of a land where magic isn't just real; it's a way of life. To breathe life into this tale:
+
+1. **Land of Enchantment:** Detail the landscape they find themselves in. This world is vast, with dense enchanted forests, floating islands, forgotten underground kingdoms, and cities carved out of crystal mountains. Where does their story begin?
+
+2. **Age of Magic:** Describe the epoch in which their adventure unfolds. Is it during the rise of magical civilizations? Or in an era when magic is in decline, and the world is on the brink of forgetting its wonders?
+
+3. **Guidance and Grit:** Elaborate on the bond between {self.partner.name} and {self.player.name}. As {self.player.name}, you are the unseen force, the whisper in the wind guiding {self.partner.name} through challenges. Are you a guardian spirit bound by an ancient pact? A deity that sees potential in this young adventurer? Or a manifestation of the adventurer's innate magic? Together, what magical phenomena or creatures do they encounter?
+
+Once the setting is woven, steer the narrative through the magical world. There will be spells to learn, magical creatures to befriend or combat, and ancient artifacts to discover. Attribute modifications should reflect the gains and losses in magic, wisdom, and alliances in this magical realm.
+
+Craft vivid scenes, from the shimmering glow of a fairy grove to the ominous shadows of a dragon's lair. Let emotions flow as {self.partner.name} discovers their magical potential and destiny, with you, {self.player.name}, guiding them from the ethereal realm.
+Lay down a path leading to an iconic moment in {self.partner.name}'s quest, be it a confrontation with a dark sorcerer, unearthing a forgotten legend, or forging an alliance with a mythical creature.
+Always use [partner_name] for {self.partner.name} and [player_name] for {self.player.name} in your narrative.
+
+Every choice is a gamble: some promising options might swiftly plunge players into pitfalls, while other seemingly dire choices harbor hidden rewards. Players should constantly anticipate and brace for unexpected twists and turns.
