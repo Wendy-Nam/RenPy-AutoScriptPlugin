@@ -2,8 +2,11 @@
 
 # Ren'Py AutoScripting Plugin with ChatGPT API
 
+![Please enter a title_-001](https://github.com/Wendy-Nam/RenPy-AutoScriptPlugin/assets/142412339/198f776d-6c4a-49eb-b113-3a52bbfe1a8c)
+
 Harness the power of AI in your Ren'Py visual novel projects!
 This plugin facilitates the creation of interactive text-based games by leveraging an AI model for narrative generation. It's seamlessly integrated with the Ren'Py visual novel engine.
+The feature also involves the control of player status attributes.
 
 <p align="center">
   <img src="./README/screen_record.gif">
