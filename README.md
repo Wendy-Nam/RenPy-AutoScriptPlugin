@@ -39,7 +39,7 @@ The feature also involves the control of player status attributes.
 5. Within any Ren'Py label, use `jump AutoScript` to kick off the text game experience.
 
    ```
-   jump autoscript
+   jump Autoscript
    ```
 
 6. For optimization and fine-tuning, modify the `initial_prompt` within `auto-script/auto_script.rpy`.
