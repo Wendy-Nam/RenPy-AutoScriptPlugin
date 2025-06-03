@@ -1,6 +1,14 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# Ren'Py AutoScripting Plugin with ChatGPT API
+
+# 📌 Available on Itch.io
+
+### [seo-a-nam.itch.io/auto-scripting-ai-plugin-for-renpy](https://seo-a-nam.itch.io/auto-scripting-ai-plugin-for-renpy)  
+> Most users download it here. Troubleshooting and updates are also handled on Itch.io.
+
+# 💡 Overview 
+
+## Ren'Py AutoScripting Plugin with ChatGPT API
 
 ![Please enter a title_-001](https://github.com/Wendy-Nam/RenPy-AutoScriptPlugin/assets/142412339/198f776d-6c4a-49eb-b113-3a52bbfe1a8c)
 
