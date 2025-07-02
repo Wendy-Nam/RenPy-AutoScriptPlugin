@@ -6,6 +6,10 @@
 ### [seo-a-nam.itch.io/auto-scripting-ai-plugin-for-renpy](https://seo-a-nam.itch.io/auto-scripting-ai-plugin-for-renpy)  
 > Most users download it here. Troubleshooting and updates are also handled on Itch.io.
 
+# 🎥 Video Tutorials
+
+### [How to Set Up and Use](https://drive.google.com/drive/u/3/folders/1w6gCR_tlGQHV4BLsv11vdsdI4fnlcLqn)
+
 # 💡 Overview 
 
 ## Ren'Py AutoScripting Plugin with ChatGPT API
